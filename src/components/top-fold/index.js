@@ -15,7 +15,7 @@ const TopFold = () => {
       {window.location.pathname === "/" ? (
         <div className="home-topfold">
           <div className="searchbar">
-            <i class="fi-rr-search"></i>
+            <i class="fi-rr-zoom-out"></i>
             <input
               placeholder="Search for expenses"
               value={query}
