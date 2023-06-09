@@ -5,7 +5,7 @@ const Header = () => {
     <div className="header-container">
       <div className="header">
         <div className="header-logo">
-          kharche
+          Expense
           <i class="fi-rr-credit-card" />
         </div>
         <div className="header-button">
