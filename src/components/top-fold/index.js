@@ -25,7 +25,7 @@ const TopFold = () => {
           <Link to="/add-expense">
             <div className="add-button">
               <i class="fi-rr-add"></i>
-              <label>Add</label>
+              <label>Add Add</label>
             </div>
           </Link>
         </div>
