@@ -34,7 +34,7 @@ const TopFold = () => {
           <Link to="/">
             <div className="add-topfold-button">
               <i class="fi-rr-angle-left"></i>
-              <label>Back</label>
+              <label>Back </label>
             </div>
           </Link>
           <Link to="/">
