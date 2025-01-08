@@ -17,7 +17,7 @@ const TopFold = () => {
           <div className="searchbar">
             <i class="fi-rr-zoom-out"></i>
             <input
-              placeholder="Search for expenses"
+              placeholder="Search for expensesss"
               value={query}
               onChange={(e) => handleQuery(e)}
             />
